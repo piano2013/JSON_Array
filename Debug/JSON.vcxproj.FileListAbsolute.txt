@@ -1,0 +1,8 @@
+C:\Users\magic\Desktop\Projects\C\JSON\JSON\Debug\JSON.exe
+C:\Users\magic\Desktop\Projects\C\JSON\JSON\Debug\JSON.pdb
+E:\Projects\Projects\JSON\JSON\Debug\JSON.exe
+E:\Projects\Projects\JSON\JSON\Debug\JSON.pdb
+C:\Users\USER\Desktop\Projects\Temp\C\JSON_modify\JSON\JSON\Debug\JSON.exe
+C:\Users\USER\Desktop\Projects\Temp\C\JSON_modify\JSON\JSON\Debug\JSON.pdb
+C:\Users\USER\Desktop\Projects\Temp\C\JSON\Debug\JSON.exe
+C:\Users\USER\Desktop\Projects\Temp\C\JSON\Debug\JSON.pdb
